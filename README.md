@@ -38,13 +38,11 @@ The data processing workflow included:
 
 2. Data cleaning
 
-3. Duplicate removal
+3. Missing-value handling
 
-4. Missing-value handling
+4. Data standardisation
 
-5. Data standardisation
-
-6. Dataset validation
+5. Dataset validation
 
 
 
